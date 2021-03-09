@@ -1,0 +1,48 @@
+{
+  "editor.wordWrap": "on",
+  "editor.rulers": [
+    80,
+    100
+  ],
+  "editor.minimap.enabled": false,
+  "editor.tabSize": 2,
+  "editor.formatOnSave": false,
+  "editor.fontFamily": "'IBM Plex Mono', 'Inconsolata', 'JetBrains Mono', 'Fira Code', 'Source Code Pro', 'Consolas', 'Droid Sans Mono', 'monospace'",
+  "editor.fontLigatures": true,
+  "editor.formatOnPaste": true,
+  "breadcrumbs.enabled": false,
+  "editor.multiCursorModifier": "ctrlCmd",
+  "editor.renderWhitespace": "boundary",
+  "editor.renderControlCharacters": true,
+  "editor.lineNumbers": "off",
+  "window.zoomLevel": 0,
+  "vsicons.dontShowNewVersionMessage": true,
+  "workbench.iconTheme": "vscode-icons",
+  "workbench.activityBar.visible": true,
+  "workbench.sideBar.location": "right",
+  "atomKeymap.promptV3Features": true,
+  "files.watcherExclude": {
+    "node_modules/*": true,
+    "**/.git/objects/**": true,
+    "**/.git/subtree-cache/**": true,
+    "**/node_modules/*/**": true,
+    "**/bower_components/**": true,
+    "**/vendor/**": true,
+    "**/platforms/**": true,
+    "**/plugins/**": true,
+    "**/dist/**": true,
+    "**/.cache/**": true
+  },
+  "files.exclude": {
+    "**/node_modules/**": true,
+    "**/.git": true,
+    "**/.svn": true,
+    "**/.hg": true,
+    "**/CVS": true,
+    "**/.DS_Store": true,
+    "**/.classpath": true,
+    "**/.project": true,
+    "**/.settings": true,
+    "**/.factorypath": true
+  },
+}
