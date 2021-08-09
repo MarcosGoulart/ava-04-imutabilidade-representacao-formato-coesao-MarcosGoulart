@@ -15,11 +15,10 @@
   "editor.renderWhitespace": "boundary",
   "editor.renderControlCharacters": true,
   "editor.lineNumbers": "off",
-  "window.zoomLevel": 0,
+  "window.zoomLevel": 1,
   "vsicons.dontShowNewVersionMessage": true,
   "workbench.iconTheme": "vscode-icons",
   "workbench.activityBar.visible": true,
-  "workbench.sideBar.location": "right",
   "atomKeymap.promptV3Features": true,
   "files.watcherExclude": {
     "node_modules/*": true,
@@ -45,4 +44,6 @@
     "**/.settings": true,
     "**/.factorypath": true
   },
+  "notebook.cellToolbarLocation": "left",
+  "search.actionsPosition": "auto",
 }
